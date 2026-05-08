@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Vizilti Salon - Premium Luxury Beauty Website
 
 A modern, responsive, and premium salon website built with HTML5, CSS3, and vanilla JavaScript. This website showcases Vizilti Salon's luxury beauty services in Bangalore.
@@ -231,7 +230,3 @@ For questions or support regarding this website template:
 
 **Vizilti Salon** - Where Beauty Meets Excellence
 *123 Brigade Road, Indiranagar, Bangalore - 560038*
-=======
-# Vizility-salon
-Modern luxury salon website demo.
->>>>>>> aa631a172937b9f6888cebcf1decd6caaaa89e93
